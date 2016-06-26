@@ -49,6 +49,7 @@
 	    var Main = (function () {
 	        function Main() {
 	            console.log('Hello!');
+	            console.log('It\'s me!');
 	        }
 	        return Main;
 	    }());

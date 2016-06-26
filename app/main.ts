@@ -2,6 +2,7 @@ namespace App {
     export class Main {
         constructor() {
             console.log('Hello!');
+            console.log('It\'s me!');
         }
     }
 
