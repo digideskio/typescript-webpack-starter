@@ -1,7 +1,7 @@
 namespace App {
     export class Main {
         constructor() {
-
+            console.log('Hello!');
         }
     }
 
