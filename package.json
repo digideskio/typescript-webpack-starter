@@ -2,6 +2,7 @@
   "name": "react-tests",
   "private": true,
   "version": "1.0.0",
+  "license": "MIT",
   "main": "serve",
   "scripts": {
     "typings": "./node_modules/.bin/typings install",
